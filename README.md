@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+References
+=================
+1. https://www.w3schools.com/css/default.asp
+2. https://www.gutenberg.org/files/84/84-h/84-h.htm
+3. https://www.gutenberg.org/files/1661/1661-h/1661-h.htm
+4. https://www.gutenberg.org/files/1342/1342-h/1342-h.htm

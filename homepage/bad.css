@@ -1,0 +1,10 @@
+h1, h2 {
+  background-color: lightyellow;
+  color: brown;
+  position: absolute;
+}
+
+body {
+  background-color: yellow;
+  font-size: 15px;
+}
