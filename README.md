@@ -28,3 +28,7 @@ References
 3. https://www.gutenberg.org/files/1661/1661-h/1661-h.htm
 4. https://www.gutenberg.org/files/1342/1342-h/1342-h.htm
 5. https://freefrontend.com/css-3d-text-effects/
+
+Note
+=================
+The homepage website has been published on https://lewisning.github.io/homepage/
