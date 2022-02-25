@@ -21,6 +21,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Gutenburg Changes
+=================
+1. Changed the background color to lightyellow
+2. Changed the font of all texts to Georgia (serif)
+3. Added border to the text body
+4. Modified the line height and margins
+
 References
 =================
 1. https://www.w3schools.com/css/default.asp
